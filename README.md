@@ -1,0 +1,1 @@
+Personal Finance Management System is a project design and develop to handle my personal savings, expenses, etc. It will be made using the web framework, Django.
